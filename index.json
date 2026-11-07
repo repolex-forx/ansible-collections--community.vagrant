@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.vagrant",
+  "versions": [
+    {
+      "commit": "84af372cc0b2d4c8a339cb720257d4f5cadd681e",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:30:19.065394+00:00"
+    }
+  ]
+}
