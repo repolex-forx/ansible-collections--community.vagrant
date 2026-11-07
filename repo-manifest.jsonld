@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.vagrant/commit/84af372cc0b2d4c8a339cb720257d4f5cadd681e",
       "git:hexsha": "84af372cc0b2d4c8a339cb720257d4f5cadd681e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T16:30:19.064331+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.vagrant/commit/d0ee9f06a533ac6cf0d6837cdc820adb4c709ec2",
